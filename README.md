@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ivanserachev
 - 👀 I’m interested in .net
 - 🌱 I’m currently learning .net and c# language
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on with other developers
 - 📫 How to reach me ivan.serachev@outlook.com . Welcome! 
 
 <!---
